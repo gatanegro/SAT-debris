@@ -1,5 +1,7 @@
 # SAT-debris
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15481624.svg)](https://doi.org/10.5281/zenodo.15481624)
+
 # 1. Abstract
 
 This paper presents a novel approach to orbital debris collection based on the Collatz Octave Model with LZ-scaling (COM-LZ) resonance attractor dynamics. We propose a passive debris collection system that leverages natural orbital harmonics to guide debris into stable collection bands without requiring direct mechanical capture. By deploying field-emitting satellites tuned to specific COM-LZ resonance frequencies, we demonstrate through simulation that debris particles can be gently phase-locked into predetermined capture zones. Our mathematical model, derived from the COM-LZ framework with a scaling constant of 1.23498288, predicts a series of stable orbital radii that closely match observed natural satellite formations. Simulation results indicate that this approach could provide a clean, scalable, and energy-efficient solution to the growing space debris problem, potentially revolutionizing orbital cleanup operations while minimizing risks to existing satellite infrastructure.
